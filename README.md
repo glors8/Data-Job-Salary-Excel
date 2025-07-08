@@ -1,3 +1,3 @@
 # Data-Job-Salary-Excel
 
-![Screenshot](./assets/Data_jobs_calculator.png)
+![Preview](./assets/Data_jobs_calculator.png)
